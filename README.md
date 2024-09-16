@@ -1,5 +1,5 @@
 # blog-web-app
-Capstone Project for Back-end Course [Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps](https://pages.github.com/](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/38516770#overview)
+Capstone Project for Back-end Course [Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps] (https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/38516770#overview)
 
 
 ## Project Description
